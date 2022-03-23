@@ -2,7 +2,7 @@
     background-color: darkslateblue;
 }
 
-#logo{
+#log{
     color: cornsilk;
 }
 
@@ -20,3 +20,6 @@
     width: 90%;
 }
 
+#logo{
+    height: 100px;
+}
